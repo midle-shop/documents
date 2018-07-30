@@ -1,5 +1,7 @@
 # Документы
 
+Для обсуждения присоединяйтесь к нашему [Telegram чату](https://t.me/midle_shop_chat_ru)!
+
   - [Цель](/ru/purpose)
   - [Whitepaper](/ru/whitepaper)
   - [Дорожная карта](/ru/roadmap)

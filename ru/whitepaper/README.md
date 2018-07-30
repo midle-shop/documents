@@ -10,6 +10,8 @@
 <p style="text-align: right">
 Ираида Сак <a href="mailto:iraida@midle.shop">iraida@midle.shop</a></p>
 
+<p style="text-align: right">
+Для обсуждения присоединяйтесь к нашему [Telegram чату](https://t.me/midle_shop_chat_ru)!</p>
 
 <p style="text-align: right">
 Версия: 0.1.0, последнее изменение: 28.07.2018</p>
