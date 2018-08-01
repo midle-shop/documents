@@ -526,10 +526,8 @@ Blockchain дает возможности отслеживания и вери�
 
 
 
-<p id="gdcalert1" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/WHITEPAPER0.png). Store image on your image server and adjust path/filename if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert2">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
-
-![alt_text](images/WHITEPAPER0.png "image_tooltip")
+![Рисунок. Топ 10 ритейл компаний](/ru/images/whitepaper_0.png "Рисунок. Топ 10 ритейл компаний")
 
 
 Рисунок. Топ 10 ритейл компаний
