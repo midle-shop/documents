@@ -1,6 +1,7 @@
 # MIDLE
 
-**Цифровой роботизированный ритейлер на Blockchain**
+<p style="text-align: center">
+**Цифровой роботизированный ритейлер на Blockchain**</p>
 
 ## Whitepaper
 
